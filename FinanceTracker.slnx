@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="ClassLibrary1/FinanceTracker.Domain.csproj" Id="6ab1d3fa-588b-4783-865a-ee47836b656a" />
+  <Project Path="FinanceTracker.Application.Tests/FinanceTracker.Application.Tests.csproj" Id="6c5af439-187d-4cc0-82f6-dbe96dff06ff" />
+  <Project Path="FinanceTracker.Application/FinanceTracker.Application.csproj" Id="c77a5507-a6d9-49b2-a938-4d9c0a367317" />
+  <Project Path="FinanceTracker.Infrastructure/FinanceTracker.Infrastructure.csproj" Id="b16b5d29-eb2c-42a8-8ff7-3738a8dcde0a" />
   <Project Path="FinanceTracker/FinanceTracker.csproj" />
 </Solution>
